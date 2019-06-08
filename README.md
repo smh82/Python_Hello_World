@@ -1,2 +1,2 @@
-# my_projects
+# PIAIC Assignments
 my python coding scripts
