@@ -118,14 +118,3 @@ if (day=="sun" or day=="sat") and temp ==100:
 
 
 
-
-
-
-
-
-'''
-for i==10 :
-    print ("muzammil")
-    i+=2
-'''
-
