@@ -117,4 +117,4 @@ if (day=="sun" or day=="sat") and temp ==100:
     print("its a hot weekend")
 
 
-
+# this is till conditions the rest has been done on jupyter note book
